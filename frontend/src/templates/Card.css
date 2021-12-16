@@ -1,0 +1,18 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-element {
+    margin-left: 30pt;
+}
+
+.row-header{
+    background-color: #2634f0;
+    padding: 2pt;
+    vertical-align: center;
+}
+.card {
+    box-shadow: 1px 2px 8px;
+    
+}

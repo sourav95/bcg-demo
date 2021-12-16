@@ -1,0 +1,19 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-element {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10pt;
+}
+
+.input-field {
+    width: 130pt;
+    padding-right: 40pt;
+}
+
+.button-field {
+    padding-right: 40pt;
+}
